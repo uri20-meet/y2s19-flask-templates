@@ -1,1 +1,6 @@
 /* Put your CSS Styling here! */
+body {
+
+	background-color: blue;
+	color: white;
+}
